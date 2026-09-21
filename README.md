@@ -11,10 +11,10 @@ Both the EZ Flash IV and EZ Flash Reform share the same **EZ4 kernel**. the late
 ---
 
 ## Table of Contents
-- Hardware Overview
-  - EZ Flash IV
-  - EZ Flash Reform
-  - Comparison
+- [Hardware Overview](docs/01-Hardware-Overview.md#hardware-overview)
+  - [EZ Flash IV](docs/01-Hardware-Overview.md#ez-flash-iv)
+  - [EZ Flash Reform](docs/01-Hardware-Overview.md#ez-flash-reform)
+  - [Comparison](docs/01-Hardware-Overview.md#comparison)
 - Getting Started
   - SD Card Setup
   - Kernel Installation
