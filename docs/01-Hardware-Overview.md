@@ -8,7 +8,8 @@ It uses a MicroSD card (SDHC supported on later hardware revisions) for storage 
 
 There is two version of EZ Flash IV, the older White version (2006) and newer Black version (2014).  
 
-The older EZ Flash IV (White version) require MiniSD / MicroSD with adapter (max 2GB) formatted to FAT16 for upgrading EZ4 kernel.
+> [!NOTE]
+> The older EZ Flash IV (White version) require MiniSD / MicroSD with adapter (max 2GB) formatted to FAT16 for upgrading to EZ4 kernel.
 
 **Key specifications:**
 - Storage: MiniSD (White version), MicroSD / MicroSDHC card (Black version)
@@ -44,10 +45,10 @@ It retains full compatibility with the same cartridge slot and software ecosyste
 | Successor         | EZ Flash Reform     | EZ Flash Omega                             |
 | Production status | Discontinued        | *(same)*                                   |
 
-**EZ Flash IV** vs **EZ Flash Reform** PCB:
+**EZ Flash IV** vs **EZ Flash Reform** PCB:  
 <img width="680" alt="reborn05-740x425" src="https://github.com/user-attachments/assets/e6ab9c35-1a7e-4ad5-a91c-e4e068625eb4" />
 
-**EZ Flash Reform** GBA / NDS Case:
+**EZ Flash Reform** GBA / NDS Case:  
 <img width="680" height="490" alt="reform04-740x490" src="https://github.com/user-attachments/assets/2ac3034e-6ebf-46a6-8f89-781a6692d937" />
 
 ## Reference
