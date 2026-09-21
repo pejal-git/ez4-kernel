@@ -28,5 +28,5 @@ Both the EZ Flash IV and EZ Flash Reform share the same **EZ4 kernel**. the late
 
 ## Resources
 
-Official EZFlash Website: https://www.ezflash.cn/
+Official EZFlash Website: https://www.ezflash.cn/  
 EZ Flash Forum (GBAtemp.net): https://gbatemp.net/forums/nintendo-gba.339/ 
