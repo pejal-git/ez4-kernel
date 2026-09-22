@@ -17,7 +17,38 @@ Both the EZ Flash IV and EZ Flash Reform share the same **EZ4 kernel**. the late
 
 ---
 
-## Table of Contents
+## Table of Contents (Summary)
+[Hardware Overview](docs/01-Hardware-Overview.md#hardware-overview)
+- [EZ Flash IV](docs/01-Hardware-Overview.md#ez-flash-iv)
+- [EZ Flash Reform](docs/01-Hardware-Overview.md#ez-flash-reform)
+- [Comparison](docs/01-Hardware-Overview.md#comparison)  
+
+[EZ4 Quick Tutorial](docs/02-EZ4-Quick-Turorial.md#ez4-quick-turorial)
+- [Updating Firmware](docs/02-EZ4-Quick-Turorial.md#updating-firmware)
+- [Settings](docs/02-EZ4-Quick-Turorial.md#settings)
+- [Launch a Game](docs/02-EZ4-Quick-Turorial.md#launch-a-game)
+- [Save Backup](docs/02-EZ4-Quick-Turorial.md#save-backup)
+- [Advance Features](docs/02-EZ4-Quick-Turorial.md#advance-features)
+- [Default Hotkeys](docs/02-EZ4-Quick-Turorial.md#default-hotkeys)
+
+EZ4 Kernel Modifications
+- Tools  
+- Skin Customization Guide
+- Help Text Editing Guide
+- Text Patching Guide
+- Compiling Guide
+- Testing Guide
+- Update Firmware  
+
+Known Limitations 
+
+[Resources](#resources)  
+
+[Licensing](#licensing)
+
+---
+
+## Table of Contents (Extended)
 [Hardware Overview](docs/01-Hardware-Overview.md#hardware-overview)
 - [EZ Flash IV](docs/01-Hardware-Overview.md#ez-flash-iv)
 - [EZ Flash Reform](docs/01-Hardware-Overview.md#ez-flash-reform)
@@ -69,6 +100,7 @@ Known Limitations
 
 [Resources](#resources)  
 
+[Licensing](#licensing)
 
 ---
 
