@@ -11,52 +11,57 @@ Both the EZ Flash IV and EZ Flash Reform share the same **EZ4 kernel**. the late
 ---
 
 ## Table of Contents
-- [Hardware Overview](docs/01-Hardware-Overview.md#hardware-overview)
-  - [EZ Flash IV](docs/01-Hardware-Overview.md#ez-flash-iv)
-  - [EZ Flash Reform](docs/01-Hardware-Overview.md#ez-flash-reform)
-  - [Comparison](docs/01-Hardware-Overview.md#comparison)
-- EZ4 Kernel Manual
-  - Update Firmware
-  - Setup
-  - Launch Game
-    - PSRAM Mode
-    - NORFLASH Mode
-  - Save Backup
-  - For Advance User
-    - Auto Patch Engine (APE)
-    - Global Softreset and Sleep (GSS)
-    - Hardreset
-  - Default Hotkey List
-    - Game Browser
-    - NORFLASH
-    - In Game
-    - Kernel Booting
-- EZ4 Kernel Modifications
-  - Tools
-    - Windows
-    - Linux
-  - Skin Customization Guide
-    - Prerequisites
-    - Skin Parts
-    - Skin Editing
-    - Convert Image
-  - Help Text Editing Guide
-    - Width Limit
-    - Newlines
-    - Border
-  - Text Patching Guide
-    - Prerequisites
-    - Patch Kernel
-  - Compiling Guide
-    - Prerequisites
-    - Build Results
-  - Testing Guide
-    - Prerequisites
-    - Load kernel
-    - Key Controls
-  - Update Firmware
-- Known Limitations
-- [Resources](#resources)
+[Hardware Overview](docs/01-Hardware-Overview.md#hardware-overview)
+- [EZ Flash IV](docs/01-Hardware-Overview.md#ez-flash-iv)
+- [EZ Flash Reform](docs/01-Hardware-Overview.md#ez-flash-reform)
+- [Comparison](docs/01-Hardware-Overview.md#comparison)  
+
+EZ4 Kernel Manual
+- Update Firmware
+- Setup
+- Launch Game
+  - PSRAM Mode
+  - NORFLASH Mode
+- Save Backup
+- For Advance User
+  - Auto Patch Engine (APE)
+  - Global Softreset and Sleep (GSS)
+  - Hardreset
+- Default Hotkey List
+  - Game Browser
+  - NORFLASH
+  - In Game
+  - Kernel Booting  
+  
+EZ4 Kernel Modifications
+- Tools  
+  - Windows  
+  - Linux  
+- Skin Customization Guide
+  - Prerequisites
+  - Skin Parts
+  - Skin Editing
+  - Convert Image
+- Help Text Editing Guide
+  - Width Limit
+  - Newlines
+  - Border
+- Text Patching Guide
+  - Prerequisites
+  - Patch Kernel
+- Compiling Guide
+  - Prerequisites
+  - Build Results
+- Testing Guide
+  - Prerequisites
+  - Load kernel
+  - Key Controls
+- Update Firmware  
+
+Known Limitations  
+
+[Resources](#resources)  
+
 
 ---
 
