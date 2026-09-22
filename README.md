@@ -23,22 +23,22 @@ Both the EZ Flash IV and EZ Flash Reform share the same **EZ4 kernel**. the late
 - [EZ Flash Reform](docs/01-Hardware-Overview.md#ez-flash-reform)
 - [Comparison](docs/01-Hardware-Overview.md#comparison)  
 
-EZ4 Kernel Manual
-- Update Firmware
-- Setup
-- Launch Game
-  - PSRAM Mode
-  - NORFLASH Mode
-- Save Backup
-- For Advance User
-  - Auto Patch Engine (APE)
-  - Global Softreset and Sleep (GSS)
-  - Hardreset
-- Default Hotkey List
-  - Game Browser
-  - NORFLASH
-  - In Game
-  - Kernel Booting  
+[EZ4 Quick Tutorial](docs/02-EZ4-Quick-Turorial.md#ez4-quick-turorial)
+- [Updating Firmware](docs/02-EZ4-Quick-Turorial.md#updating-firmware)
+- [Settings](docs/02-EZ4-Quick-Turorial.md#settings)
+- [Launch a Game](docs/02-EZ4-Quick-Turorial.md#launch-a-game)
+  - [PSRAM Mode](docs/02-EZ4-Quick-Turorial.md#1-psram-mode)
+  - [NORFLASH Mode](docs/02-EZ4-Quick-Turorial.md#2-nor-flash-mode)
+- [Save Backup](docs/02-EZ4-Quick-Turorial.md#save-backup)
+- [Advance Features](docs/02-EZ4-Quick-Turorial.md#advance-features)
+  - [Auto Patch Engine (APE)](docs/02-EZ4-Quick-Turorial.md#auto-patch-engine-ape)
+  - [Global Soft Reset and Sleep (GSS)](docs/02-EZ4-Quick-Turorial.md#global-soft-reset-and-sleep-gss)
+  - [Hard Reset](docs/02-EZ4-Quick-Turorial.md#hard-reset)
+- [Default Hotkeys](docs/02-EZ4-Quick-Turorial.md#default-hotkeys)
+  - [File Browser](docs/02-EZ4-Quick-Turorial.md#file-browser)
+  - [NOR Flash Game List](docs/02-EZ4-Quick-Turorial.md#nor-flash-game-list)
+  - [In-Game](docs/02-EZ4-Quick-Turorial.md#in-game)
+  - [During Kernel Boot](docs/02-EZ4-Quick-Turorial.md#during-kernel-boot)
   
 EZ4 Kernel Modifications
 - Tools  
