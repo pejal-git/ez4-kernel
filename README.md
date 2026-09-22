@@ -76,3 +76,9 @@ Known Limitations
 
 Official EZFlash Website: https://www.ezflash.cn/  
 EZ Flash Forum (GBAtemp.net): https://gbatemp.net/forums/nintendo-gba.339/ 
+
+## Licensing
+The documentation and original content in this repository are licensed under the [MIT License](LICENSE).
+
+This repository also bundles third-party tools, which are subject to their own respective licenses:
+* **Placeholder_Name** (located in `/path/path`): License under the [LICENSE_NAME] (/path/path/LICENSE) by [Original_Author]
