@@ -113,4 +113,5 @@ EZ Flash Forum (GBAtemp.net): https://gbatemp.net/forums/nintendo-gba.339/
 The documentation and original content in this repository are licensed under the [MIT License](LICENSE).
 
 This repository also bundles third-party tools, which are subject to their own respective licenses:
+* **EZ4 Kernel 2.05** (located in /src/zip/ez4_20180104.zip): Proprietary License by EZ-Flash
 * **Placeholder_Name** (located in `/path/path`): License under the [LICENSE_NAME] (/path/path/LICENSE) by [Original_Author]
