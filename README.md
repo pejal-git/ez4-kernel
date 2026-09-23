@@ -113,5 +113,10 @@ EZ Flash Forum (GBAtemp.net): https://gbatemp.net/forums/nintendo-gba.339/
 The documentation and original content in this repository are licensed under the [MIT License](LICENSE).
 
 This repository also bundles third-party tools, which are subject to their own respective licenses:
-* **EZ4 Kernel 2.05** (located in /src/zip/ez4_20180104.zip): Proprietary License by EZ-Flash
+* **EZ4 Kernel 2.05** (located in /src/zip/ez4_20180104.zip): Proprietary Freeware by [EZ-Flash](https://www.ezflash.cn/)
+* **Lunar IPS** (located in /src/EZ4-Mod-Pack/Tools/LunarIPS/Lunar IPS.exe): Freeware License by [FuSoYa](https://fusoya.eludevisibility.org/)
+* **EZPDA RomBuildPro** (located in src/EZ4-Mod-Pack/Tools/RomBuildPro/RomBuildPro.exe): Proprietary Freeware by [www.HappyApple.net](https://web.archive.org/web/20041203114416/http://www.happyapple.net/)
+* **batgba** (located in src/EZ4-Mod-Pack/Tools/batgba/batgba.exe): Freeware License by [batgba Team](https://batgba.zophar.net/)
+* **gbata** (located in src/EZ4-Mod-Pack/Tools/gbata/gbata.exe): Freeware License by coolhj
+
 * **Placeholder_Name** (located in `/path/path`): License under the [LICENSE_NAME] (/path/path/LICENSE) by [Original_Author]
