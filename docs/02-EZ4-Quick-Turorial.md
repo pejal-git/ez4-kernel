@@ -2,8 +2,12 @@
 
 This document is a modified reproduction of the original EZ-Flash IV Quick Turorial ([ez4quickturorial.html](https://www.ezflash.cn/ez4quicktutorial.html))  
 re-written in markdown format with better grammar and restructured sentences.
+> [!NOTE]
+> Rewrite purpose is for easier read and does not meant to replace the original tutorial.
 
-A copy of the original [ez4quicktutorial.html](https://www.ezflash.cn/ez4quicktutorial.html) file can be viewed from Web Archive's [ez4quickturorial.html](https://web.archive.org/web/20260418191846/https://www.ezflash.cn/ez4quicktutorial.html) (dated 18 Apr 2026) or obtained from [/src/ez4quickturorial.html](../src/ez4quickturorial.html).
+The original file can be viewed from the original source: [ez4quicktutorial.html](https://www.ezflash.cn/ez4quicktutorial.html)
+
+A copy of the original file can be viewed from Web Archive's [ez4quickturorial.html](https://web.archive.org/web/20260418191846/https://www.ezflash.cn/ez4quicktutorial.html) (dated 18 Apr 2026) or obtained from this repository: [/src/ez4quickturorial.html](../src/ez4quickturorial.html).
 
 > [!NOTE]
 > The EZ4 Client software is no longer required as of EZ4 Kernel 2.00, ROMs can be copied to the SD card directly.
@@ -17,9 +21,9 @@ A copy of the original [ez4quicktutorial.html](https://www.ezflash.cn/ez4quicktu
   > - Maximum supported card size is 2GB.  
   > - Must be formatted to FAT16.  
 2. Download the latest firmware (EZ4 kernel 2.05) from either :-
-    - [EZ-FLASH official site](https://www.ezflash.cn/zip/ez4_20180104.zip).  
+    - [EZ-FLASH Official Website](https://www.ezflash.cn/zip/ez4_20180104.zip).  
     or
-    - [/src/zip/ez4_20180104.zip](/src/zip/ez4_20180104.zip) (copy of original).
+    - [/src/zip/ez4_20180104.zip](/src/zip/ez4_20180104.zip) (backup copy of original).
 3. Then extract it to the **root** of your SD card.
 4. Power on your GBA/NDS while holding the **R** button, the cartridge will automatically enter firmware upgrade procedure.
 5. Once upgrade is finished, the new kernel will boot. You can verify the version number in the **top-right corner** of the main menu.
