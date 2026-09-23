@@ -1,0 +1,46 @@
+=====================================
+ Help / About text edit guide:
+=====================================
+ Below are the space your GBA screen
+ will limit text before it creates 
+ new line. 37 line in total.
+ (visually displayed with arrows)
+<----------------------------------->
+
+
+You can however write help text more than 37 line like this.
+Text that longer than the limit will be auto newlined:
+<----------------------------------->
+For example, this text will be displa
+
+yed like this.
+<----------------------------------->
+
+
+That sometimes happens, but most of the time, a full word
+should be newlined correctly.
+<----------------------------------->
+For example, this text will be
+
+displayed like this.
+<----------------------------------->
+
+
+If you follow the 37 line text limit including space,
+the full sentence will not be newlined, so no extra spacing added.
+<----------------------------------->
+For example, this text will be
+displayed like this.
+<----------------------------------->
+
+It's up to you how you want to format your text file, for fun,
+you can also create text borders. eg:
+<----------------------------------->
+,-----------------------------------.
+|                                   |
+|         Text in border!           |
+|                                   |
+`-----------------------------------'
+
+Credits: Faizal Refendi
+Website: https://docs.pejal.org/gba/
