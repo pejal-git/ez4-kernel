@@ -31,9 +31,9 @@ Both the EZ Flash IV and EZ Flash Reform share the same **EZ4 kernel**. the late
 - [Advance Features](docs/02-EZ4-Quick-Turorial.md#advance-features)
 - [Default Hotkeys](docs/02-EZ4-Quick-Turorial.md#default-hotkeys)
 
-EZ4 Kernel Modifications
-- Tools  
-- Skin Customization Guide
+[EZ4 Kernel Modding Guides](docs/03-EZ4-Kernel-Modding-Guide/01-EZ4-Kernel-Modding-Guide.md)
+- [Tools](docs/03-EZ4-Kernel-Modding-Guide/02-Tools.md)
+- [Skin Customization Guide](docs/03-EZ4-Kernel-Modding-Guide/03-Skin-Customization-Guide.md)
 - Help Text Editing Guide
 - Text Patching Guide
 - Compiling Guide
@@ -71,15 +71,15 @@ Known Limitations
   - [In-Game](docs/02-EZ4-Quick-Turorial.md#in-game)
   - [During Kernel Boot](docs/02-EZ4-Quick-Turorial.md#during-kernel-boot)
   
-EZ4 Kernel Modifications
-- Tools  
-  - Windows  
-  - Linux  
-- Skin Customization Guide
-  - Prerequisites
-  - Skin Parts
-  - Skin Editing
-  - Convert Image
+[EZ4 Kernel Modding Guides](docs/03-EZ4-Kernel-Modding-Guide/01-EZ4-Kernel-Modding-Guide.md)
+- [Tools](docs/03-EZ4-Kernel-Modding-Guide/02-Tools.md)
+  - [Windows Tools](docs/03-EZ4-Kernel-Modding-Guide/02-Tools.md#1-windows-tools)
+  - [Linux Tools](docs/03-EZ4-Kernel-Modding-Guide/02-Tools.md#2-linux-tools)
+- [Skin Customization Guide](docs/03-EZ4-Kernel-Modding-Guide/03-Skin-Customization-Guide.md)
+  - [Prerequisites](docs/03-EZ4-Kernel-Modding-Guide/03-Skin-Customization-Guide.md#1-prerequisites)
+  - [Skin Components](docs/03-EZ4-Kernel-Modding-Guide/03-Skin-Customization-Guide.md#2-skin-components)
+  - [Skin Editing](docs/03-EZ4-Kernel-Modding-Guide/03-Skin-Customization-Guide.md#3-skin-editing)
+  - [Converting Images](docs/03-EZ4-Kernel-Modding-Guide/03-Skin-Customization-Guide.md#4-converting-images)
 - Help Text Editing Guide
   - Width Limit
   - Newlines
