@@ -1,3 +1,9 @@
+[![Static Badge](https://img.shields.io/badge/Home-README.md-blue)](../README.md)
+[![Static Badge](https://img.shields.io/badge/Next-EZ4_Quick_Tutorial-blue)](02-EZ4-Quick-Turorial.md)
+
+
+---
+
 # Hardware Overview
 
 ## EZ Flash IV
@@ -56,6 +62,11 @@ It retains full compatibility with the same cartridge slot and software ecosyste
 2. EZ-FLASH. (n.d.-a). EZ-FLASH Reform (discontinued). Retrieved September 22, 2026, from https://www.ezflash.cn/product/reform/
 3. EZ-FLASH. (n.d.). [EZ Flash IV vs EZ Flash Reform PCB]. Retrieved 22 Sept 2026 from https://www.ezflash.cn/wp-content/uploads/2017/10/reborn05-740x425.jpg
 4. EZ-FLASH. (n.d.). [EZ Flash Reform GBA / NDS Case]. Retrieved 22 Sept 2026 from https://www.ezflash.cn/wp-content/uploads/2017/10/reform04-740x490.jpg
+
+---
+
+[![Static Badge](https://img.shields.io/badge/Home-README.md-blue)](../README.md)
+[![Static Badge](https://img.shields.io/badge/Next-EZ4_Quick_Tutorial-blue)](02-EZ4-Quick-Turorial.md)
 
 
 
