@@ -4,7 +4,7 @@
 
 ---
 
-# EZ4 Quick Turorial
+# EZ4 Quick Tutorial
 
 This document is a modified reproduction of the original EZ-Flash IV Quick Turorial ([ez4quickturorial.html](https://www.ezflash.cn/ez4quicktutorial.html))  
 re-written in markdown format with better grammar and restructured sentences.
