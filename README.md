@@ -23,7 +23,7 @@ Both the EZ Flash IV and EZ Flash Reform share the same **EZ4 kernel**. the late
 - [EZ Flash Reform](docs/01-Hardware-Overview.md#ez-flash-reform)
 - [Comparison](docs/01-Hardware-Overview.md#comparison)  
 
-[EZ4 Quick Tutorial](docs/02-EZ4-Quick-Turorial.md#ez4-quick-turorial)
+[EZ4 Quick Tutorial](docs/02-EZ4-Quick-Turorial.md#ez4-quick-tutorial)
 - [Updating Firmware](docs/02-EZ4-Quick-Turorial.md#updating-firmware)
 - [Settings](docs/02-EZ4-Quick-Turorial.md#settings)
 - [Launch a Game](docs/02-EZ4-Quick-Turorial.md#launch-a-game)
@@ -54,7 +54,7 @@ Known Limitations
 - [EZ Flash Reform](docs/01-Hardware-Overview.md#ez-flash-reform)
 - [Comparison](docs/01-Hardware-Overview.md#comparison)  
 
-[EZ4 Quick Tutorial](docs/02-EZ4-Quick-Turorial.md#ez4-quick-turorial)
+[EZ4 Quick Tutorial](docs/02-EZ4-Quick-Turorial.md#ez4-quick-tutorial)
 - [Updating Firmware](docs/02-EZ4-Quick-Turorial.md#updating-firmware)
 - [Settings](docs/02-EZ4-Quick-Turorial.md#settings)
 - [Launch a Game](docs/02-EZ4-Quick-Turorial.md#launch-a-game)
