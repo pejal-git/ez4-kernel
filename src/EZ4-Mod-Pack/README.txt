@@ -14,9 +14,6 @@ File Index:
 │   │       ├── 8Kb.ips         # 8192kb to 8kb text patch
 │   │       ├── font.ips        # Better font patch
 │   │       └── text.ips        # Improved text patch
-│   ├── pictrans
-│   │   ├── i_view32.ini
-│   │   └── pictrans.exe        # Image viewer (convert modified bmp to kernal buildable format)
 │   └── RomBuildPro
 │       ├── html2txt.dll
 │       ├── RomBuildPro.exe     # Kernal builder
@@ -53,4 +50,4 @@ File Index:
             │   └── x.bmp                       # Close button image       (Button)
             └── help.txt                        # Help text                (Help)
           
-Faizal Refendi Skin Mods Guide: https://docs.pejal.org/gba/
+Faizal Refendi Skin Mods Guide: https://github.com/pejal-git/ez4-kernel/
