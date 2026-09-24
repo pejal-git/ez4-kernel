@@ -1,3 +1,9 @@
+[![Static Badge](https://img.shields.io/badge/Home-README.md-blue)](../README.md)
+[![Static Badge](https://img.shields.io/badge/Previous-Hardware_Overview-blue)](01-Hardware-Overview.md)
+[![Static Badge](https://img.shields.io/badge/Next-EZ4_Kernel_Modding_Guide-blue)](03-EZ4-Kernel-Modding-Guide/01-EZ4-Kernel-Modding-Guide.md)
+
+---
+
 # EZ4 Quick Turorial
 
 This document is a modified reproduction of the original EZ-Flash IV Quick Turorial ([ez4quickturorial.html](https://www.ezflash.cn/ez4quicktutorial.html))  
@@ -154,3 +160,7 @@ You can also configure global hard reset on launch behavior by editing the **KEY
 | R      | Enter firmware upgrade mode |
 
 ---
+
+[![Static Badge](https://img.shields.io/badge/Home-README.md-blue)](../README.md)
+[![Static Badge](https://img.shields.io/badge/Previous-Hardware_Overview-blue)](01-Hardware-Overview.md)
+[![Static Badge](https://img.shields.io/badge/Next-EZ4_Kernel_Modding_Guide-blue)](03-EZ4-Kernel-Modding-Guide/01-EZ4-Kernel-Modding-Guide.md)
