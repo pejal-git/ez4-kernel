@@ -1,4 +1,10 @@
 
+[![Static Badge](https://img.shields.io/badge/Home-README.md-blue)](../../README.md)
+[![Static Badge](https://img.shields.io/badge/Previous-EZ4_Kernel_Modding_Guide-blue)](01-EZ4-Kernel-Modding-Guide.md)
+[![Static Badge](https://img.shields.io/badge/Next-Skin_Customization_Guide-blue)](03-Skin-Customization-Guide.md)
+
+---
+
 ## Tools
 Tools for EZ4 kernel modding is originally built for Windows operating system.  
 For Linux users, `wine` is required to run these tools.
@@ -33,3 +39,7 @@ Sublime Text - https://www.sublimetext.com/
 | TextEditor | Text editor 	             | Modify help.txt for EZ Flash IV kernel    |
 
 ---
+
+[![Static Badge](https://img.shields.io/badge/Home-README.md-blue)](../../README.md)
+[![Static Badge](https://img.shields.io/badge/Previous-EZ4_Kernel_Modding_Guide-blue)](01-EZ4-Kernel-Modding-Guide.md)
+[![Static Badge](https://img.shields.io/badge/Next-Skin_Customization_Guide-blue)](03-Skin-Customization-Guide.md)
