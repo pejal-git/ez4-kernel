@@ -33,6 +33,12 @@ Official EZ-Flash Customize Pack: https://www.ezflash.cn/zip/EZPDA_1.7.5.zip
 - [Skin Editing](03-Skin-Customization-Guide.md#3-skin-editing)
 - [Converting Images](03-Skin-Customization-Guide.md#4-converting-images)
 
+[Help Text Editing Guide](04-Help-Text-Editing-Guide.md)
+- [Width Limit](04-Help-Text-Editing-Guide.md#width-limit)
+- [Blank Lines](04-Help-Text-Editing-Guide.md#blank-lines)
+- [Dividers](04-Help-Text-Editing-Guide.md#dividers)
+- [Text Border](04-Help-Text-Editing-Guide.md#text-border)
+
 ---
 
 [![Static Badge](https://img.shields.io/badge/Home-README.md-blue)](../../README.md)
