@@ -4,8 +4,9 @@
 
 #### 1. Prerequisites
 1. Customize Pack / Skin Builder Pack
-2. [Wine](https://www.winehq.org/) (if you're on Linux)
-3. Image Editing program
+2. [IrfanView](https://www.irfanview.com/)
+3. [Wine](https://www.winehq.org/) (if you're on Linux)
+4. Image Editing program
 
 You may use Official [Customize Pack](https://www.ezflash.cn/zip/EZPDA_1.7.5.zip),  
 but in this guide, we will be using a modified / remodeled of the original customize pack for ease-of-use.
@@ -126,12 +127,7 @@ You may also refer to YouTube or Forums for more advance editing.
 ---
 
 #### 4. Converting Images
-The bitmap file .bmp or .BMP we exported is too advance for GBA kernel, so we have to use IrfanView (pictrans.exe) to convert the image back to .bmp or .BMP so GBA kernel builder can read and use.
-
-Run pictrans.exe via wine (for Linux user):
-```bash
-wine ~/EZ4-Mod-Pack/Tools/pictrans/pictrans.exe
-```
+The bitmap file .bmp or .BMP we exported is too advance for GBA kernel, so we have to use IrfanView to convert the image back to .bmp or .BMP so GBA kernel builder can read and use.
 
 **Open your exported skin part:**
 - Click File > Open then open your `~/EZ4-Mod-Pack/Workspace/new_bmp` folder.
