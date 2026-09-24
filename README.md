@@ -34,7 +34,7 @@ Both the EZ Flash IV and EZ Flash Reform share the same **EZ4 kernel**. the late
 [EZ4 Kernel Modding Guides](docs/03-EZ4-Kernel-Modding-Guide/01-EZ4-Kernel-Modding-Guide.md)
 - [Tools](docs/03-EZ4-Kernel-Modding-Guide/02-Tools.md)
 - [Skin Customization Guide](docs/03-EZ4-Kernel-Modding-Guide/03-Skin-Customization-Guide.md)
-- Help Text Editing Guide
+- [Help Text Editing Guide](docs/03-EZ4-Kernel-Modding-Guide/04-Help-Text-Editing-Guide.md)
 - Text Patching Guide
 - Compiling Guide
 - Testing Guide
@@ -80,10 +80,11 @@ Known Limitations
   - [Skin Components](docs/03-EZ4-Kernel-Modding-Guide/03-Skin-Customization-Guide.md#2-skin-components)
   - [Skin Editing](docs/03-EZ4-Kernel-Modding-Guide/03-Skin-Customization-Guide.md#3-skin-editing)
   - [Converting Images](docs/03-EZ4-Kernel-Modding-Guide/03-Skin-Customization-Guide.md#4-converting-images)
-- Help Text Editing Guide
-  - Width Limit
-  - Newlines
-  - Border
+- [Help Text Editing Guide](docs/03-EZ4-Kernel-Modding-Guide/04-Help-Text-Editing-Guide.md)
+  - [Width Limit](docs/03-EZ4-Kernel-Modding-Guide/04-Help-Text-Editing-Guide.md#width-limit)
+  - [Blank Lines](docs/03-EZ4-Kernel-Modding-Guide/04-Help-Text-Editing-Guide.md#blank-lines)
+  - [Dividers](docs/03-EZ4-Kernel-Modding-Guide/04-Help-Text-Editing-Guide.md#dividers)
+  - [Text Border](docs/03-EZ4-Kernel-Modding-Guide/04-Help-Text-Editing-Guide.md#text-border)
 - Text Patching Guide
   - Prerequisites
   - Patch Kernel
