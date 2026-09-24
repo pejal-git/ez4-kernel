@@ -6,13 +6,17 @@
 
 ## Skin Customization Guide
 
+> [!NOTE]
+> Section [3. Skin Editing](#3-skin-editing) heavily lean towards using [GIMP](https://www.gimp.org/) (for linux) as guide.  
+> You will need to refer to other tutorial for editing pixel image in Windows system.
+
 ---
 
 #### 1. Prerequisites
 1. Customize Pack / Skin Builder Pack
-2. [IrfanView](https://www.irfanview.com/)
+2. [IrfanView v3.80](https://www.irfanview.com/)
 3. [Wine](https://www.winehq.org/) (if you're on Linux)
-4. Image Editing program
+4. Image Editing program ([GIMP](https://www.gimp.org/) or any pixel art capable editor)
 
 You may use Official [Customize Pack](https://www.ezflash.cn/zip/EZPDA_1.7.5.zip),  
 but in this guide, we will be using a modified / remodeled of the original customize pack for ease-of-use.
@@ -44,7 +48,7 @@ The skin components are located in `EZ4-Mod-Pack/Workspace/Res/.shell/bmp/`
 | deskicon.bmp | Desktop icons | Desktop |
 | desktop.bmp | Desktop background | Desktop |
 | ezoption.bmp | Option window background | Desktop |
-| ezpdalogo.bmp | Kernal Boot image | Boot |
+| ezpdalogo.bmp | Kernel Boot image | Boot |
 | filemng.bmp | File Manager background | File Manager |
 | filemnghead.bmp | File Manager title | File Manager |
 | icons.bmp | File Manager icons | File Manager |
@@ -80,7 +84,7 @@ In Windows, you may use any image editing program, preferably something that sup
 - anti-alias
 You can also use online image editor.
 
-For our guide, we'll be using Linux's GNU Image Manipulation Program (GIMP).  
+For our guide, we'll be using Linux's [GNU Image Manipulation Program (GIMP)](https://www.gimp.org/).  
 
 **Load a skin component:**
 Open GIMP and click File > Open... then load the skin part you wish to modify.  
@@ -127,7 +131,7 @@ Open GIMP and click File > Open... then load the skin part you wish to modify.
 - Then enter filename.bmp, click export.
 - Window open, just OK and export.
 
-These are basically all the steps / knowledge you need to edit a skin part.  
+These cover the core steps needed to edit a skin component.  
 You may also refer to YouTube or Forums for more advance editing.  
 
 ---
