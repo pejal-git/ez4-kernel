@@ -107,9 +107,10 @@ Known Limitations
 
 ## Resources
 
-Official EZFlash Website: https://www.ezflash.cn/  
-EZ Flash Forum (GBAtemp.net): https://gbatemp.net/forums/nintendo-gba.339/  
-IrfanView Graphic Viewer: https://www.irfanview.com/
+- Official EZFlash Website: https://www.ezflash.cn/  
+- EZ Flash Forum (GBAtemp.net): https://gbatemp.net/forums/nintendo-gba.339/  
+- IrfanView Graphic Viewer: https://www.irfanview.com/  
+- EZ-Flash_Guide: https://github.com/ChimeraGaming/EZ-Flash_Guide
 
 ## Licensing
 The documentation and original content in this repository are licensed under the [MIT License](LICENSE).
