@@ -1,5 +1,5 @@
 [![Static Badge](https://img.shields.io/badge/Home-README.md-blue)](../README.md)
-[![Static Badge](https://img.shields.io/badge/Next-EZ4_Quick_Tutorial-blue)](02-EZ4-Quick-Turorial.md)
+[![Static Badge](https://img.shields.io/badge/Next-EZ4_Quick_Tutorial-blue)](02-EZ4-Quick-Tutorial.md)
 
 
 ---
@@ -66,7 +66,7 @@ It retains full compatibility with the same cartridge slot and software ecosyste
 ---
 
 [![Static Badge](https://img.shields.io/badge/Home-README.md-blue)](../README.md)
-[![Static Badge](https://img.shields.io/badge/Next-EZ4_Quick_Tutorial-blue)](02-EZ4-Quick-Turorial.md)
+[![Static Badge](https://img.shields.io/badge/Next-EZ4_Quick_Tutorial-blue)](02-EZ4-Quick-Tutorial.md)
 
 
 
