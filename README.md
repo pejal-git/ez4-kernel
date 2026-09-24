@@ -117,6 +117,5 @@ This repository also bundles third-party tools, which are subject to their own r
 * **Lunar IPS** (located in /src/EZ4-Mod-Pack/Tools/LunarIPS/Lunar IPS.exe): Freeware License by [FuSoYa](https://fusoya.eludevisibility.org/)
 * **EZPDA RomBuildPro** (located in src/EZ4-Mod-Pack/Tools/RomBuildPro/RomBuildPro.exe): Proprietary Freeware by [www.HappyApple.net](https://web.archive.org/web/20041203114416/http://www.happyapple.net/)
 * **batgba** (located in src/EZ4-Mod-Pack/Tools/batgba/batgba.exe): Freeware License by [batgba Team](https://batgba.zophar.net/)
-* **gbata** (located in src/EZ4-Mod-Pack/Tools/gbata/gbata.exe): Freeware License by coolhj
 
 * **Placeholder_Name** (located in `/path/path`): License under the [LICENSE_NAME] (/path/path/LICENSE) by [Original_Author]
