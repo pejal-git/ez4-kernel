@@ -67,17 +67,17 @@ The skin components are located in `EZ4-Mod-Pack/Workspace/Res/.shell/bmp/`
 
 #### 3. Skin Editing
 Create a copy of the `bmp` folder as backup before editing.  
-Then create another new folder `new_bmp` to save edited skin.  
+Then create another copy of the same `bmp` folder and save it as `new_bmp` to replace edited skin.  
 
 For Linux user:
 ```bash
 # Copy bmp folder as backup
 cp -r ~/EZ4-Mod-Pack/Workspace/Res/.shell/bmp ~/EZ4-Mod-Pack/Workspace/bmp
 # Create new bmp folder for edited skin
-mkdir -p ~/EZ4-Mod-Pack/Workspace/new_bmp
+cp -r ~/EZ4-Mod-Pack/Workspace/Res/.shell/bmp ~/EZ4-Mod-Pack/Workspace/new_bmp
 ```
 
-Now head to `EZ4-Mod-Pack/Workspace/Res/.shell/bmp/` folder and open the skin component you wish to edit.  
+Now head to `EZ4-Mod-Pack/Workspace/new_bmp/` folder and open the skin component you wish to edit.  
 In Windows, you may use any image editing program, preferably something that supports:-  
 - pixel editing
 - layering
@@ -87,7 +87,7 @@ You can also use online image editor.
 For our guide, we'll be using Linux's [GNU Image Manipulation Program (GIMP)](https://www.gimp.org/).  
 
 **Load a skin component:**
-Open GIMP and click File > Open... then load the skin part you wish to modify.  
+Open GIMP and click File > Open... then load the skin part you wish to modify from `EZ4-Mod-Pack/Workspace/new_bmp/`.  
 
 > [!TIP]
 > You can zoom the image if its small.
@@ -128,8 +128,9 @@ Open GIMP and click File > Open... then load the skin part you wish to modify.
 
 **Then to save the changes you made:**
 - Click File > Export As... then choose your save folder `~/EZ4-Mod-Pack/Workspace/new_bmp`
-- Then enter filename.bmp, click export.
+- Then click the original skin part to replace, click export.
 - Window open, just OK and export.
+- If prompted to replace, confirm to continue.
 
 These cover the core steps needed to edit a skin component.  
 You may also refer to YouTube or Forums for more advance editing.  
@@ -139,15 +140,19 @@ You may also refer to YouTube or Forums for more advance editing.
 #### 4. Converting Images
 The bitmap file .bmp or .BMP we exported is too advance for GBA kernel, so we have to use IrfanView to convert the image back to .bmp or .BMP so GBA kernel builder can read and use.
 
+> [!NOTE]
+> IrfanView help convert modern images into uncompressed, legacy indexed-color BMPs compatible with the GBA asset compiler.
+
 **Open your exported skin part:**
 - Click File > Open then open your `~/EZ4-Mod-Pack/Workspace/new_bmp` folder.
-- Pick and load your exported skin part.
-- Click File > Save as then choose your original skin part, click Save.
+- Pick and load your exported/edited skin part.
+- Click File > Save as then choose the same skin part you load, click Save.
 - When a prompt asking replace confirmation, pick Yes / Confirm.
+- IrfanView v3.80 by default already handle the conversion settings.
 
 **Replace original skin with your new skin:**
 - Open File Manager and open `~/EZ4-Mod-Pack/Workspace/new_bmp` folder.
-- Copy the new skin and paste into `~/EZ4-Mod-Pack/Workspace/Res/.shell/bmp`.
+- Copy the new/edited skins and paste into `~/EZ4-Mod-Pack/Workspace/Res/.shell/bmp`.
 - When asked to replace, select yes / confirm.
 
 Repeat the [Step 3](#3-skin-editing) and [Step 4](#4-converting-images) until you satisfied.
