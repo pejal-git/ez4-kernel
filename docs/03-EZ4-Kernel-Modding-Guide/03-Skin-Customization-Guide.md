@@ -1,3 +1,9 @@
+[![Static Badge](https://img.shields.io/badge/Home-README.md-blue)](../../README.md)
+[![Static Badge](https://img.shields.io/badge/Previous-Tools-blue)](02-Tools.md)
+[![Static Badge](https://img.shields.io/badge/Next-Help_Text_Editing_Guide-blue)](04-Help-Text-Editing-Guide.md)
+
+---
+
 ## Skin Customization Guide
 
 ---
@@ -143,3 +149,7 @@ The bitmap file .bmp or .BMP we exported is too advance for GBA kernel, so we ha
 Repeat the [Step 3](#3-skin-editing) and [Step 4](#4-converting-images) until you satisfied.
 
 ---
+
+[![Static Badge](https://img.shields.io/badge/Home-README.md-blue)](../../README.md)
+[![Static Badge](https://img.shields.io/badge/Previous-Tools-blue)](02-Tools.md)
+[![Static Badge](https://img.shields.io/badge/Next-Help_Text_Editing_Guide-blue)](04-Help-Text-Editing-Guide.md)
