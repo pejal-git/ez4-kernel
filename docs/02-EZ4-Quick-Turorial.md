@@ -161,6 +161,11 @@ You can also configure global hard reset on launch behavior by editing the **KEY
 
 ---
 
+## Reference
+EZ-Flash. (n.d.). EZ4 Quick Tutorial. https://www.ezflash.cn/ez4quicktutorial.html
+
+---
+
 [![Static Badge](https://img.shields.io/badge/Home-README.md-blue)](../README.md)
 [![Static Badge](https://img.shields.io/badge/Previous-Hardware_Overview-blue)](01-Hardware-Overview.md)
 [![Static Badge](https://img.shields.io/badge/Next-EZ4_Kernel_Modding_Guide-blue)](03-EZ4-Kernel-Modding-Guide/01-EZ4-Kernel-Modding-Guide.md)
