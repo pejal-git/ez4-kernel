@@ -43,6 +43,12 @@ Official EZ-Flash Customize Pack: https://www.ezflash.cn/zip/EZPDA_1.7.5.zip
 - [Prerequisites](05-Text-Patching-Guide.md#prerequisites)
 - [Patch the kernel](05-Text-Patching-Guide.md#patch-the-kernel)
 
+[Build Kernel Guide](06-Build-Kernel-Guide.md)
+- [Prerequisites](06-Build-Kernel-Guide.md#prerequisites)
+- [Running The Compiler](06-Build-Kernel-Guide.md#1-running-the-compiler)
+- [Successful Build](06-Build-Kernel-Guide.md#2-successful-build)
+- [Failed Build](06-Build-Kernel-Guide.md#3-failed-build)
+
 ---
 
 [![Static Badge](https://img.shields.io/badge/Home-README.md-blue)](../../README.md)
