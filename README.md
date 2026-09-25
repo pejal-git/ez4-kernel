@@ -121,4 +121,9 @@ This repository also bundles third-party tools, which are subject to their own r
 * **EZPDA RomBuildPro** (located in src/EZ4-Mod-Pack/Tools/RomBuildPro/RomBuildPro.exe): Proprietary Freeware by [www.HappyApple.net](https://web.archive.org/web/20041203114416/http://www.happyapple.net/)
 * **batgba** (located in src/EZ4-Mod-Pack/Tools/batgba/batgba.exe): Freeware License by [batgba Team](https://batgba.zophar.net/)
 
+Removed from this repository to meet their respective licenses:
+* **IrfanView** (was located in /src/EZ4-Mod-Pack/Tools/pictrans/pictrans.exe): Proprietary Freeware by [IrfanView](https://www.irfanview.com/eula.htm)  
+  - *IrfanView version 3.80 was illegally renamed and redistributed as pictrans.exe during 2018 era.*
+  - *Modern version still supports the same functions as the old one.*
+
 * **Placeholder_Name** (located in `/path/path`): License under the [LICENSE_NAME] (/path/path/LICENSE) by [Original_Author]
