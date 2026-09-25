@@ -36,7 +36,7 @@ Both the EZ Flash IV and EZ Flash Reform share the same **EZ4 kernel**. the late
 - [Skin Customization Guide](docs/03-EZ4-Kernel-Modding-Guide/03-Skin-Customization-Guide.md)
 - [Help Text Editing Guide](docs/03-EZ4-Kernel-Modding-Guide/04-Help-Text-Editing-Guide.md)
 - [Text Patching Guide](docs/03-EZ4-Kernel-Modding-Guide/05-Text-Patching-Guide.md)
-- Compiling Guide
+- [Build Kernel Guide](docs/03-EZ4-Kernel-Modding-Guide/06-Build-Kernel-Guide.md)
 - Testing Guide
 - Update Firmware  
 
@@ -88,9 +88,11 @@ Known Limitations
 - [Text Patching Guide](docs/03-EZ4-Kernel-Modding-Guide/05-Text-Patching-Guide.md)
   - [Prerequisites](docs/03-EZ4-Kernel-Modding-Guide/05-Text-Patching-Guide.md#prerequisites)
   - [Patch the kernel](docs/03-EZ4-Kernel-Modding-Guide/05-Text-Patching-Guide.md#patch-the-kernel)
-- Compiling Guide
-  - Prerequisites
-  - Build Results
+- [Build Kernel Guide](docs/03-EZ4-Kernel-Modding-Guide/06-Build-Kernel-Guide.md)
+  - [Prerequisites](docs/03-EZ4-Kernel-Modding-Guide/06-Build-Kernel-Guide.md#prerequisites)
+  - [Running The Compiler](docs/03-EZ4-Kernel-Modding-Guide/06-Build-Kernel-Guide.md#1-running-the-compiler)
+  - [Successful Build](docs/03-EZ4-Kernel-Modding-Guide/06-Build-Kernel-Guide.md#2-successful-build)
+  - [Failed Build](docs/03-EZ4-Kernel-Modding-Guide/06-Build-Kernel-Guide.md#3-failed-build)
 - Testing Guide
   - Prerequisites
   - Load kernel
