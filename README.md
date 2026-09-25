@@ -35,7 +35,7 @@ Both the EZ Flash IV and EZ Flash Reform share the same **EZ4 kernel**. the late
 - [Tools](docs/03-EZ4-Kernel-Modding-Guide/02-Tools.md)
 - [Skin Customization Guide](docs/03-EZ4-Kernel-Modding-Guide/03-Skin-Customization-Guide.md)
 - [Help Text Editing Guide](docs/03-EZ4-Kernel-Modding-Guide/04-Help-Text-Editing-Guide.md)
-- Text Patching Guide
+- [Text Patching Guide](docs/03-EZ4-Kernel-Modding-Guide/05-Text-Patching-Guide.md)
 - Compiling Guide
 - Testing Guide
 - Update Firmware  
@@ -85,9 +85,9 @@ Known Limitations
   - [Blank Lines](docs/03-EZ4-Kernel-Modding-Guide/04-Help-Text-Editing-Guide.md#blank-lines)
   - [Dividers](docs/03-EZ4-Kernel-Modding-Guide/04-Help-Text-Editing-Guide.md#dividers)
   - [Text Border](docs/03-EZ4-Kernel-Modding-Guide/04-Help-Text-Editing-Guide.md#text-border)
-- Text Patching Guide
-  - Prerequisites
-  - Patch Kernel
+- [Text Patching Guide](docs/03-EZ4-Kernel-Modding-Guide/05-Text-Patching-Guide.md)
+  - [Prerequisites](docs/03-EZ4-Kernel-Modding-Guide/05-Text-Patching-Guide.md#prerequisites)
+  - [Patch the kernel](docs/03-EZ4-Kernel-Modding-Guide/05-Text-Patching-Guide.md#patch-the-kernel)
 - Compiling Guide
   - Prerequisites
   - Build Results
