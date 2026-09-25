@@ -13,15 +13,18 @@
 ---
 
 #### 1. Prerequisites
-1. Customize Pack / Skin Builder Pack
-2. [IrfanView v3.80](https://www.irfanview.com/)
+1. Customize Pack / Skin Builder Pack (e.g. [EZ4-Mod-Pack.zip](../../src/zip/EZ4-Mod-Pack.zip))
+2. [IrfanView](https://www.irfanview.com/)
 3. [Wine](https://www.winehq.org/) (if you're on Linux)
 4. Image Editing program ([GIMP](https://www.gimp.org/) or any pixel art capable editor)
 
 You may use Official [Customize Pack](https://www.ezflash.cn/zip/EZPDA_1.7.5.zip),  
-but in this guide, we will be using a modified / remodeled of the original customize pack for ease-of-use.
+but in this guide, we will be using a modified / remodeled of the original customize pack for ease-of-use.  
+Download [EZ4-Mod-Pack.zip](../../src/zip/EZ4-Mod-Pack.zip) and extract it to your Desktop.
 
-1. Download [EZ4-Mod-Pack.zip](../../src/zip/EZ4-Mod-Pack.zip) and extract it to your Desktop.
+> [!IMPORTANT]
+> If you use Official Customize Pack, you'll find IrfanView was illegally renamed to pictrans.exe  
+> IrfanView is a freeware for private and non commercial use, obtain it from [Official source](https://www.irfanview.com).
 
 If you're on Linux:
 ```
@@ -146,7 +149,9 @@ The bitmap file .bmp or .BMP we exported is too advance for GBA kernel, so we ha
 **Open your exported skin part:**
 - Click File > Open then open your `~/EZ4-Mod-Pack/Workspace/new_bmp` folder.
 - Pick and load your exported/edited skin part.
-- Click File > Save as then choose the same skin part you load, click Save.
+- Click File > Save as .
+- On Save Picture As.. window, choose `BMP - Windows Bitmap`.
+- Then choose the same skin part you load, click Save.
 - When a prompt asking replace confirmation, pick Yes / Confirm.
 - IrfanView v3.80 by default already handle the conversion settings.
 
