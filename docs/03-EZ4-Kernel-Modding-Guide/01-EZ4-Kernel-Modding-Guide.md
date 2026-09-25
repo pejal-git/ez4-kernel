@@ -1,7 +1,3 @@
-> [!IMPORTANT]
-> THIS GUIDE IS STILL IN WRITING
-
----
 
 [![Static Badge](https://img.shields.io/badge/Home-README.md-blue)](../../README.md)
 [![Static Badge](https://img.shields.io/badge/Previous-EZ4_Quick_Tutorial-blue)](../02-EZ4-Quick-Tutorial.md)
