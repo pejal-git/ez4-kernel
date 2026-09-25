@@ -17,6 +17,10 @@ Both the EZ Flash IV and EZ Flash Reform share the same **EZ4 kernel**. the late
 
 ---
 
+## Table of Contents:
+<details>
+  <summary>Table of Contents (Summary)</summary>
+  
 ## Table of Contents (Summary)
 [Hardware Overview](docs/01-Hardware-Overview.md#hardware-overview)
 - [EZ Flash IV](docs/01-Hardware-Overview.md#ez-flash-iv)
@@ -45,8 +49,10 @@ Known Limitations
 [Resources](#resources)  
 
 [Licensing](#licensing)
+</details>
 
----
+<details>
+  <summary>Table of Contents (Extended)</summary>
 
 ## Table of Contents (Extended)
 [Hardware Overview](docs/01-Hardware-Overview.md#hardware-overview)
@@ -104,6 +110,19 @@ Known Limitations
 [Resources](#resources)  
 
 [Licensing](#licensing)
+</details>
+
+---
+
+## Quick Links
+[EZ4 Kernel Modding Guides](docs/03-EZ4-Kernel-Modding-Guide/01-EZ4-Kernel-Modding-Guide.md)
+- [Tools](docs/03-EZ4-Kernel-Modding-Guide/02-Tools.md)
+- [Skin Customization Guide](docs/03-EZ4-Kernel-Modding-Guide/03-Skin-Customization-Guide.md)
+- [Help Text Editing Guide](docs/03-EZ4-Kernel-Modding-Guide/04-Help-Text-Editing-Guide.md)
+- [Text Patching Guide](docs/03-EZ4-Kernel-Modding-Guide/05-Text-Patching-Guide.md)
+- [Build Kernel Guide](docs/03-EZ4-Kernel-Modding-Guide/06-Build-Kernel-Guide.md)
+- Testing Guide
+- Update Firmware  
 
 ---
 
