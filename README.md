@@ -128,4 +128,8 @@ Removed from this repository to meet their respective licenses:
   - *IrfanView version 3.80 was illegally renamed and redistributed as pictrans.exe during 2018 era.*
   - *Modern version still supports the same functions as the old one.*
 
-* **Placeholder_Name** (located in `/path/path`): License under the [LICENSE_NAME] (/path/path/LICENSE) by [Original_Author]
+---
+
+<!--
+* **Placeholder_Name** (located in `/path/path`): License under the [LICENSE_NAME] (/path/path/LICENSE) by [Original_Author] 
+-->
