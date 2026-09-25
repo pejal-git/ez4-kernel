@@ -39,6 +39,10 @@ Official EZ-Flash Customize Pack: https://www.ezflash.cn/zip/EZPDA_1.7.5.zip
 - [Dividers](04-Help-Text-Editing-Guide.md#dividers)
 - [Text Border](04-Help-Text-Editing-Guide.md#text-border)
 
+[Text Patching Guide](05-Text-Patching-Guide.md)
+- [Prerequisites](05-Text-Patching-Guide.md#prerequisites)
+- [Patch the kernel](05-Text-Patching-Guide.md#patch-the-kernel)
+
 ---
 
 [![Static Badge](https://img.shields.io/badge/Home-README.md-blue)](../../README.md)
