@@ -1,5 +1,5 @@
 # EZ Flash IV & EZ Flash Reform
-![Static Badge](https://img.shields.io/badge/status-in_progress-white?style=flat&color=%233498eb)
+![Static Badge](https://img.shields.io/badge/status-completed-white?style=flat&color=%233498eb)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/pejal-git/ez4-kernel?style=flat&color=%233498eb)
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fpejal-git%2Fez4-kernel&label=visitors&countColor=%233498eb&style=flat&labelStyle=none)
 
