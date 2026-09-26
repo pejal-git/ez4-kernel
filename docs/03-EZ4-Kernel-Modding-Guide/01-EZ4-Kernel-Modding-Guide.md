@@ -45,6 +45,16 @@ Official EZ-Flash Customize Pack: https://www.ezflash.cn/zip/EZPDA_1.7.5.zip
 - [Successful Build](06-Build-Kernel-Guide.md#2-successful-build)
 - [Failed Build](06-Build-Kernel-Guide.md#3-failed-build)
 
+[Testing Guide](07-Testing-Guide.md)
+- [Prerequisites](07-Testing-Guide.md#prerequisites)
+- [Run Emulator](07-Testing-Guide.md#1-run-emulator)
+- [Load Kernel](07-Testing-Guide.md#2-load-kernel)
+- [Kernel Testing](07-Testing-Guide.md#3-kernel-testing)
+
+[Flashing Kernel Guide](08-Flashing-Kernel-Guide.md)
+- [Preparation](08-Flashing-Kernel-Guide.md#1-preparation)
+- [Flash Kernel](08-Flashing-Kernel-Guide.md#2-flash-kernel)
+
 ---
 
 [![Static Badge](https://img.shields.io/badge/Home-README.md-blue)](../../README.md)
