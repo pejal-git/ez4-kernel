@@ -124,8 +124,8 @@ Known Limitations
 - [Help Text Editing Guide](docs/03-EZ4-Kernel-Modding-Guide/04-Help-Text-Editing-Guide.md)
 - [Text Patching Guide](docs/03-EZ4-Kernel-Modding-Guide/05-Text-Patching-Guide.md)
 - [Build Kernel Guide](docs/03-EZ4-Kernel-Modding-Guide/06-Build-Kernel-Guide.md)
-- Testing Guide
-- Update Firmware  
+- [Testing Guide](docs/03-EZ4-Kernel-Modding-Guide/07-Testing-Guide.md)
+- [Flashing Kernel Guide](docs/03-EZ4-Kernel-Modding-Guide/08-Flashing-Kernel-Guide.md)
 
 ---
 
