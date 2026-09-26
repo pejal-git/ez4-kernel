@@ -44,8 +44,6 @@ Both the EZ Flash IV and EZ Flash Reform share the same **EZ4 kernel**. the late
 - [Testing Guide](docs/03-EZ4-Kernel-Modding-Guide/07-Testing-Guide.md)
 - [Flashing Kernel Guide](docs/03-EZ4-Kernel-Modding-Guide/08-Flashing-Kernel-Guide.md)
 
-Known Limitations 
-
 [Resources](#resources)  
 
 [Licensing](#licensing)
@@ -107,8 +105,6 @@ Known Limitations
 - [Flashing Kernel Guide](docs/03-EZ4-Kernel-Modding-Guide/08-Flashing-Kernel-Guide.md)
   - [Preparation](docs/03-EZ4-Kernel-Modding-Guide/08-Flashing-Kernel-Guide.md#1-preparation)
   - [Flash Kernel](docs/03-EZ4-Kernel-Modding-Guide/08-Flashing-Kernel-Guide.md#2-flash-kernel)
-
-Known Limitations  
 
 [Resources](#resources)  
 
