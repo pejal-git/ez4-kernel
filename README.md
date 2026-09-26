@@ -41,8 +41,8 @@ Both the EZ Flash IV and EZ Flash Reform share the same **EZ4 kernel**. the late
 - [Help Text Editing Guide](docs/03-EZ4-Kernel-Modding-Guide/04-Help-Text-Editing-Guide.md)
 - [Text Patching Guide](docs/03-EZ4-Kernel-Modding-Guide/05-Text-Patching-Guide.md)
 - [Build Kernel Guide](docs/03-EZ4-Kernel-Modding-Guide/06-Build-Kernel-Guide.md)
-- Testing Guide
-- Update Firmware  
+- [Testing Guide](docs/03-EZ4-Kernel-Modding-Guide/07-Testing-Guide.md)
+- [Flashing Kernel Guide](docs/03-EZ4-Kernel-Modding-Guide/08-Flashing-Kernel-Guide.md)
 
 Known Limitations 
 
@@ -99,11 +99,14 @@ Known Limitations
   - [Running The Compiler](docs/03-EZ4-Kernel-Modding-Guide/06-Build-Kernel-Guide.md#1-running-the-compiler)
   - [Successful Build](docs/03-EZ4-Kernel-Modding-Guide/06-Build-Kernel-Guide.md#2-successful-build)
   - [Failed Build](docs/03-EZ4-Kernel-Modding-Guide/06-Build-Kernel-Guide.md#3-failed-build)
-- Testing Guide
-  - Prerequisites
-  - Load kernel
-  - Key Controls
-- Update Firmware  
+- [Testing Guide](docs/03-EZ4-Kernel-Modding-Guide/07-Testing-Guide.md)
+  - [Prerequisites](docs/03-EZ4-Kernel-Modding-Guide/07-Testing-Guide.md#prerequisites)
+  - [Run Emulator](docs/03-EZ4-Kernel-Modding-Guide/07-Testing-Guide.md#1-run-emulator)
+  - [Load Kernel](docs/03-EZ4-Kernel-Modding-Guide/07-Testing-Guide.md#2-load-kernel)
+  - [Kernel Testing](docs/03-EZ4-Kernel-Modding-Guide/07-Testing-Guide.md#3-kernel-testing)
+- [Flashing Kernel Guide](docs/03-EZ4-Kernel-Modding-Guide/08-Flashing-Kernel-Guide.md)
+  - [Preparation](docs/03-EZ4-Kernel-Modding-Guide/08-Flashing-Kernel-Guide.md#1-preparation)
+  - [Flash Kernel](docs/03-EZ4-Kernel-Modding-Guide/08-Flashing-Kernel-Guide.md#2-flash-kernel)
 
 Known Limitations  
 
